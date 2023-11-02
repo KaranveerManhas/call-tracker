@@ -8,6 +8,10 @@ Call Tracker is a web application that allows users to track and count the numbe
 - Display counts for each type of call
 - Display total number of calls taken
 - Store data in the localStorage of the web browser
+- Clear all data
+
+  ![image](https://github.com/KaranveerManhas/call-tracker/assets/82330083/66d74193-6d2d-427e-b4eb-164f13e33e8d)
+
 
 ## Installation
 
