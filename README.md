@@ -1,6 +1,6 @@
 # Call Tracker
 
-Call Tracker is a web application that allows users to track and count the number of different types of calls taken. It displays the counts for each type of call individually, as well as the total number of calls taken. The calls are stored in the localStorage of the web browser, ensuring that the data is not lost when the user closes or accidentally refreshes the web app. It was designed to help me and my team members to keep track of daily incoming calls efficiently.
+Call Tracker is a web application that allows users to track and count the number of different types of calls taken. It displays the counts for each type of call individually, as well as the total number of calls taken. The calls are stored in the localStorage of the web browser, ensuring that the data is not lost when the user closes or accidentally refreshes the web app. It was designed to help me and my team members keep track of daily incoming calls efficiently.
 
 ## Features
 
